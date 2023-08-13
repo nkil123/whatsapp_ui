@@ -11,7 +11,7 @@ Follow these steps to get the project up and running on your local machine:
 
    ```bash
    git clone https://github.com/nkil123/whatsapp_ui.git
-   cd your-project
+   cd whatsapp_ui
    npm install
    npm expo start or npm expo start --tunnel
 
